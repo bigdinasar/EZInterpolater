@@ -30,7 +30,7 @@ No training:
 
 The anime model never achieved comparable results to the vimeo model.
 
-## Example Output
+## More Example Output
 
 Vimeo 20 epochs
 
