@@ -8,19 +8,24 @@ This project is still in development.
 ### Vimeo Model
 
 No training:
+
 ![Server](./server/noTraining.gif)
 
 5 epochs
+
 ![Server](./server/vimeo5.gif)
 
 10 epochs
+
 ![Server](./server/vimeo10.gif)
 
 20 epochs
+
 ![Server](./server/vimeo20.gif)
 
 ### Anime Model
 20 epochs
+
 ![Server](./server/anime20.gif)
 
 The anime model never achieved comparable results to the vimeo model.
@@ -28,9 +33,11 @@ The anime model never achieved comparable results to the vimeo model.
 ## Example Output
 
 Vimeo 20 epochs
+
 ![Server](./server/vimeoGhibli20.gif)
 
 Anime 20 epochs
+
 ![Server](./server/animeGhibli20.gif)
 
 ## CLI commands to run:
